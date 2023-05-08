@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+    <channel>
+        <language>en-US</language>
+        <copyright>Copyright 2023 Ithaca College Title IX and College Sports Class through the Park School of Communications &amp; High Tops Media</copyright>
+        <title>Talking Title IX and College Sports</title>
+        <description><![CDATA[<p>As a college athlete, do you know your rights under Title IX, the law that bars discrimination on the basis of gender? As someone who cares about fairness in college sports, do you know what Title IX requires and what it doesn’t require when it is applied to athletics? Join Dr. Ellen J. Staurowsky, her students, and leading as we talk about all things Title IX and college sports.</p> <p>An Ithaca College Park School of Communications and High Tops Media Podcast</p>
+]]></description>
+        <link>https://talking-title-ix.hightops.media//</link>
+		
+        <itunes:image href='https://talking-title-ix.hightops.media//assets/CoverArtSeason1.jpg'/>
+        
+		<itunes:category text='Education'/>
+		
+		<itunes:author>Ithaca College Title IX and College Sports Class through the Park School of Communications &amp; High Tops Media</itunes:author>
+        <itunes:owner>
+            <itunes:name>High Tops Media Podcast Administrator</itunes:name>
+            <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
+        </itunes:owner>
+		
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+    </channel>
+</rss>
