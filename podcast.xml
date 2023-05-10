@@ -20,5 +20,31 @@
 		
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>An Introduction and Welcome to Talking Title IX and College Sports</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TTIX/TTIX_S01_00_Trailer1.mp3' length='9002894' type='audio/mpeg'/>
+			<guid>2023-05-10-Trailer1</guid>
+            <pubDate>Wed, 10 May 2023 12:00:00 -0400</pubDate>
+            <description><![CDATA[<p>This spring, students in my Title IX and College Sports class have been studying about Title IX and its application to athletics in the 50th year since Title IX was passed in 1972.  Together we’ve learned about the wonder of Title IX as a comprehensive piece of federal legislation that has, over the years, singularly or in tandem with other equity laws, helped unlock access to educational and athletic opportunities, paving the way for inroads into academic majors and jobs that were once thought of as the exclusive domains of either men or women.  Even as we learn about Title IX’s impact on the ability of students to gain equal access to educational opportunity regardless of gender, the facts about Title IX have also left so many questions unanswered, most specifically why so few Americans in general, and people in college sports in particular - think athletes, coaches, and athletics administrators - know very little about what Title IX is and what it actually requires.</p>
+
+<p>Host: Dr. Ellen J. Staurowsky</p>
+
+<p>Follow us on Instagram! <br />
+https://www.instagram.com/talkingtitleix_ic/</p>
+
+<p>An Ithaca College Park School of Communications and High Tops Media Podcast</p>
+
+<p>You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>374</itunes:duration>
+            <link>https://talking-title-ix.hightops.media//2023/05/10/Trailer1/</link>
+			<itunes:image href='https://talking-title-ix.hightops.media//assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>0</itunes:episode>
+			<itunes:season>1</itunes:season>
+            <itunes:episodeType>trailer</itunes:episodeType>
+        </item>
     </channel>
 </rss>
